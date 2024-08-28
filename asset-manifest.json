@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/banana-clicker/static/css/main.4b475f55.css",
+    "main.js": "/banana-clicker/static/js/main.f69238cb.js",
+    "index.html": "/banana-clicker/index.html",
+    "main.4b475f55.css.map": "/banana-clicker/static/css/main.4b475f55.css.map",
+    "main.f69238cb.js.map": "/banana-clicker/static/js/main.f69238cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b475f55.css",
+    "static/js/main.f69238cb.js"
+  ]
+}
